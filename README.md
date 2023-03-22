@@ -7,6 +7,7 @@ My name is Alex, thanks for checking out my profile!
 - 🧠:With a passion for computer architecture and hardware design
 
 🔥 My Top Languages
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
