@@ -1,4 +1,3 @@
-<p align="center">
 ### Hi there 👋
 
 My name is Alex, thanks for checking out my profile!
@@ -10,4 +9,3 @@ My name is Alex, thanks for checking out my profile!
 🔥 My Top Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanley97&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-</p>
