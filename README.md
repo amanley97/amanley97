@@ -2,9 +2,9 @@
 
 My name is Alex, thanks for checking out my profile!
 
-- 💻:A Computer Engineering Undergraduate
-- 🌻:Attending the University of Kansas
-- 🧠:With a passion for computer architecture and hardware design
+- 💻 A Computer Engineering Undergraduate
+- 🌻 Attending the University of Kansas
+- 🧠 With a passion for computer architecture and hardware design
 
 🔥 My Top Languages
 
