@@ -2,7 +2,7 @@
 
 My name is Alex, thanks for checking out my profile!
 
-- 💻 A Computer Engineering Undergraduate
+- 💻 A Computer Engineering Master's Student
 - 🌻 Attending the University of Kansas
 - 🧠 With a passion for computer architecture and hardware design
 
