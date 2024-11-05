@@ -8,7 +8,7 @@ My name is Alex, thanks for checking out my profile!
 
 **Contact Me!**
 
-- 📧 contact.alexmanley@gmail.com
+- 📧 contact@alexmanley.dev
 - 🌐 https://alexmanley.dev
 
 🔥 My Top Languages
